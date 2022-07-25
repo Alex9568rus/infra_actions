@@ -22,4 +22,4 @@ jobs:
       run: |
         python -m flake8
         cd infra_project/
-        puthon3 manage.py test
+        python3 manage.py test
